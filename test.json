@@ -4,7 +4,8 @@
 "token":"helloword",
 "name":"李四",
 "user":"ADMIN",
-"level":"1.0f"
+"level":"1.0f",
+"appVersionDriverBack":{"latest":"2016年","deprecated":"xxyy","url":""}
 
 
 }
